@@ -36,6 +36,7 @@ projects[views][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[coffee][subdir] = "contrib"
 projects[admin_menu][subdir] = "contrib"
+projects[module_filter][subdir] = "contrib"
 
 ; Themes
 ; --------
