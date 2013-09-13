@@ -38,6 +38,7 @@ projects[entity][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[module_filter][subdir] = "contrib"
 projects[rules][subdir] = "contrib"
+projects[token][subdir] = "contrib"
 projects[views][subdir] = "contrib"
 projects[views_bulk_operations][subdir] = "contrib"
 
