@@ -32,6 +32,7 @@ projects[] = drupal
 ; --------
 
 projects[admin_menu][subdir] = "contrib"
+projects[adminimal_admin_menu][subdir] = "contrib"
 projects[coffee][subdir] = "contrib"
 projects[ctools][subdir] = "contrib"
 projects[diff][subdir] = "contrib"
