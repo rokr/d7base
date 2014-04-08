@@ -50,6 +50,7 @@ projects[views_bulk_operations][subdir] = "contrib"
 
 projects[bootstrap][subdir] = "contrib"
 projects[shiny][subdir] = "contrib"
+projects[responsive_bartik][subdir] = "contrib"
   
 ; Libraries
 ; ---------
