@@ -37,6 +37,7 @@ projects[coffee][subdir] = "contrib"
 projects[ctools][subdir] = "contrib"
 projects[diff][subdir] = "contrib"
 projects[entity][subdir] = "contrib"
+projects[entitycache][subdir] = "contrib"
 projects[jquery_update][subdir] = "contrib"
 projects[metatag][subdir] = "contrib"
 projects[module_filter][subdir] = "contrib"
@@ -49,10 +50,9 @@ projects[views_bulk_operations][subdir] = "contrib"
 ; --------
 
 projects[bootstrap][subdir] = "contrib"
-projects[shiny][subdir] = "contrib"
 projects[responsive_bartik][subdir] = "contrib"
+projects[shiny][subdir] = "contrib"
   
 ; Libraries
 ; ---------
 ; No libraries were included
-
